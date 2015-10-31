@@ -1,0 +1,18 @@
+	Antarctica : [
+		["-03:00", "Palmer"],
+		["-03:00", "Rothera"],
+		["-03:00", "Bermuda"],
+		["-03:00", "Stanley"],
+		["-02:00", "South_Georgia"],
+		["-01:00", "Cape_Verde"],
+		["+02:00", "Troll"],
+		["+03:00", "Syowa"],
+		["+05:00", "Mawson"],
+		["+06:00", "Vostok"],
+		["+07:00", "Davis"],
+		["+08:00", "Casey"],
+		["+10:00", "DumontDUrville"],
+		["+11:00", "Macquarie"],
+		["+13:00", "McMurdo"],
+		["+13:00", "South_Pole"]
+	],
